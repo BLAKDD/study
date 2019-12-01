@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d18d728-241c-4d4d-9a6c-386e6e19471e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SCR3oMkWmYwqWRExzA6kvWm4zx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myssmweb" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SthTry">
+    <configuration name="Son (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njit.extendsTry.Son" />
+      <module name="mytry" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.njit.extendsTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SthTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njit.sthTry.SthTry" />
+      <module name="mytry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.njit.sthTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njit.threadTry.ThreadPoolTest" />
+      <module name="mytry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.njit.threadTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njit.ThreadTry" />
+      <module name="mytry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.njit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="equalsTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.njit.sthTry.equalsTry" />
+      <module name="mytry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.njit.sthTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadPoolTest" />
+      <item itemvalue="Application.Son (1)" />
+      <item itemvalue="Application.equalsTry" />
+      <item itemvalue="Application.ThreadTry" />
+      <item itemvalue="Application.SthTry" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SthTry" />
+        <item itemvalue="Application.equalsTry" />
+        <item itemvalue="Application.ThreadTry" />
+        <item itemvalue="Application.Son (1)" />
+        <item itemvalue="Application.ThreadPoolTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d18d728-241c-4d4d-9a6c-386e6e19471e" name="Default Changelist" comment="" />
+      <created>1571065395233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571065395233</updated>
+      <workItem from="1571065398257" duration="1629000" />
+      <workItem from="1571145066832" duration="8213000" />
+      <workItem from="1571197861897" duration="1909000" />
+      <workItem from="1571319834655" duration="2895000" />
+      <workItem from="1571577107395" duration="5823000" />
+      <workItem from="1571819492780" duration="12382000" />
+      <workItem from="1571899207819" duration="726000" />
+      <workItem from="1571997978684" duration="866000" />
+      <workItem from="1572420385609" duration="81000" />
+      <workItem from="1572785242816" duration="2921000" />
+      <workItem from="1572859902262" duration="3015000" />
+      <workItem from="1572946063243" duration="689000" />
+      <workItem from="1572950012961" duration="10218000" />
+      <workItem from="1572966081591" duration="124000" />
+      <workItem from="1573012127791" duration="995000" />
+      <workItem from="1573042706109" duration="4052000" />
+      <workItem from="1573563314554" duration="2941000" />
+      <workItem from="1573987260787" duration="88000" />
+      <workItem from="1574175556266" duration="1529000" />
+      <workItem from="1574228700897" duration="4009000" />
+      <workItem from="1574257982405" duration="2222000" />
+      <workItem from="1574300089390" duration="3484000" />
+      <workItem from="1574311038423" duration="682000" />
+      <workItem from="1574466789089" duration="1324000" />
+      <workItem from="1574683061902" duration="4070000" />
+      <workItem from="1574728998873" duration="885000" />
+      <workItem from="1574734728126" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
