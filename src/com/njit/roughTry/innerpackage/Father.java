@@ -1,4 +1,4 @@
-package com.njit.roughTry;
+package com.njit.roughTry.innerpackage;
 
 public class Father {
     public int pub;
